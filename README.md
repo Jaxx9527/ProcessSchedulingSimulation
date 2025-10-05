@@ -1,5 +1,5 @@
 # ProcessSchedulingSimulation
-作業系統行程調度模擬
+模擬作業系統行程調度  
 
 ## 題目要求
 ### 1.	实验目的
