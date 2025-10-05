@@ -36,6 +36,18 @@
 进程 4  到达时间: 20
 进程 4  要求运行时间: 20
 ```
+<table >
+  <tr>
+    <td align="center">Round Robin 算法</td>
+    <td align="center">抢占式 SJF 算法</td>
+  </tr>
+<tr>
+  <td><img width="100%" alt="image" src="https://raw.githubusercontent.com/Jaxx9527/ProcessSchedulingSimulation/refs/heads/main/9zGnuPNRBw.png" />
+</td>
+  <td><img width="100%" alt="image" src="https://raw.githubusercontent.com/Jaxx9527/ProcessSchedulingSimulation/refs/heads/main/AGvbBXCo8f.png" />
+</td>
+</tr>
+</table>
 
 ## 實驗結果
 抢占式 SJF 算法对比 Round  Robin 算法，所有进程总开销时间一致，但进程平均完成时间更低。  
